@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cooking</string>
+    <string name="api_error_message">There is some error</string>
+    <string name="no_network_toast">No Internet Connection</string>
+    <string name="ingredient">Ingredient </string>
+    <string name="cuisine">Cuisine </string>
+    <string name="category">Category </string>
+    <string name="search">Search</string>
+    <string name="single_meal_detail_image">SingleMealDetailImage</string>
+    <string name="ingredient_size">Ingredient - %1s</string>
+    <string name="ingredient_image">Ingredients Image</string>
+    <string name="instructions">Instructions</string>
+    <string name="explore_more_icon">explore more icon</string>
+    <string name="explore_more">Explore more</string>
+    <string name="food_thumbnail_images">Food Thumbnail Images</string>
+    <string name="searchbar_hint_text">Search Recipes, Cuisines, Diet</string>
+    <string name="back">Back</string>
+    <string name="saved">Saved</string>
+    <string name="profile_icon">Profile Icon</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="starter">Starter</string>
+    <string name="vegan">Vegan</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="no_internet_icon">No Internet Icon</string>
+    <string name="heading">heading</string>
+    <string name="meal_id">idMeal</string>
+</resources>
